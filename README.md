@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Sonya Basharat
-- 👀 I’m interested in AI research algorithms - Computer Vision
+- 👋 Hi, I’m Sonia Basharat
+- 👀 I’m interested in AI in Healthcare - Computer Vision
 - 🌱 I’m currently learning Medical Image Segmentation
 - 💞️ I’m looking to collaborate on projects involving Medical Image Computing.
 - 📫 How to reach me soniabasharat74@gmail.com
