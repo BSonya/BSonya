@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI in Healthcare - Computer Vision
 - 🌱 I’m currently learning Medical Image Segmentation
 - 💞️ I’m looking to collaborate on projects involving Medical Image Computing.
-- 📫 How to reach me soniabasharat74@gmail.com
+- 📫 How to reach me sonia.bms20smme@student.nust.edu.pk
 
 <!---
 BSonya/BSonya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
